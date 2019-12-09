@@ -1,4 +1,4 @@
-package rev;
+package maximumAndMinimum;
 
 public class ReverseString {
 

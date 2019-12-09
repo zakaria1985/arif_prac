@@ -1,4 +1,4 @@
-package rev;
+package maximumAndMinimum;
 
 public class BackWord {
 	public static void main (String[]args) {
