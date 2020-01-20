@@ -7,7 +7,7 @@ public class RiverseDemo1 {
 		String  empty  = " ";
 		  String [] st =text.split("");
 		  
-		  for( int i= text.length()-1; i>=0; i--) {
+		  for( int i= st.length-1; i>=0; i--) {
 			  empty = empty+st[i];
 		  }
 		  System.out.println(empty);

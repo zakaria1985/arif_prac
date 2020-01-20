@@ -24,6 +24,7 @@ public class SortAndDuplicate {
 for (int i = 0; i<num.length; i++) {
 	System.out.print(" "+num[i]);
 }
+
 ArrayList<Integer>number= new ArrayList<Integer>();
 	number.add(num[0]);
 	for(int i =1; i< num.length;i++) {
