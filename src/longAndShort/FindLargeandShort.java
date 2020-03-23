@@ -13,10 +13,8 @@ public class FindLargeandShort {
 		 if(x.length()>longest.length()) {
 			 longest=x;
 	
-			
-		 }
+			 }
 	 
- 
 	 else if(x.length()<shortest.length()) {
 			 shortest=x;
 		 
